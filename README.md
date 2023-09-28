@@ -1,2 +1,1 @@
-# Python-program
-# My name is Shivam khan
+ basic program of python
